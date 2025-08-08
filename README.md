@@ -8,6 +8,22 @@
 The interface uses the [`rich`](https://github.com/Textualize/rich) library for a visually enhanced experience with styled tables, input prompts, and clean console output.
 
 ---
+## Features
+- Task management (add, view, delete)
+- Habit tracking (log days, view stats, delete)
+- Rich CLI interface
+- Persistent data storage with JSON
+- Test coverage with Pytest
+
+## Getting Started
+1. Clone the repo
+2. Run `pip install -r requirements.txt`
+3. Run with `python project.py`
+
+## Technologies Used
+- Python 3
+- Rich (for CLI UI)
+- Pytest (for testing)
 
 ## 🗂️ Project Structure
 
